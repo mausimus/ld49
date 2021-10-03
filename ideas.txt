@@ -1,0 +1,19 @@
+
+- weather, need to avoid or big penalty or force altitude
+
+- map has:
+    - entry points
+    - exit points
+    - airways? but they don't need to be followed
+    - runways?
+
+- VIP planes
+- military planes
+
+- you can tell a plane to:
+    - change direction / target
+    - change speed
+    - change altitude
+    - follow airway
+
+- score is total delays (minutes)
